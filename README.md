@@ -1,4 +1,3 @@
-# PyxelMaze
 
 ![](MazeGame/assets/logo2.png)
 
