@@ -78,6 +78,9 @@ obj/
 *.lo
 *.o
 *.obj
+*.vcxproj
+*.filters
+*.vcxproj.user
 
 # Precompiled Headers
 *.gch
